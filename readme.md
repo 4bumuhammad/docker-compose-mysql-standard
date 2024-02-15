@@ -7,4 +7,3 @@ $ docker-compose up -d
 
 
 ## created by Dhony Abu Muhammad
-## location : BEKASI
