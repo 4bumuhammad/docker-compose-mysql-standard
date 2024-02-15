@@ -5,6 +5,3 @@
 
 $ docker-compose up -d
 
-
-## created by Dhony Abu Muhammad
-## edit 1. lenovo
