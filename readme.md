@@ -1,6 +1,6 @@
--
+
+
 # create container mysql dengan docker-compose
--
-# for build 
+# Build
 
 $ docker-compose up -d
